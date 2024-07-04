@@ -1,6 +1,5 @@
 ## Hi there I am Okerew
-<br>
-<a href="https://okral.glitch.me">wWebsite</a>
+<a href="https://okral.glitch.me">Website</a>
 <br>
 **Okerew/okerew** 
 <br>
