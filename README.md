@@ -11,8 +11,9 @@ Note I analyze the code that it is outputing for any security issues and overall
 - 🤔 I’m looking for help with extensions for okral code editor, help with okrolearn would also be nice.
 - 😄 Pronouns: Az/best this is a joke I am male, please don't take it personally if you were offended.
 
-Reach me:
-<a href="https://x.com/OkerewWar">Twitter/</a>
+# Reach me:
+<br>
+<a href="https://x.com/OkerewWar">Twitter</a>
 <br>
 Mail - okerewgroup@proton.me
 <br>
