@@ -24,4 +24,4 @@ Discord - _wereko
 # Best projects:
 ![344431882-2c3e95ea-394d-4e29-8b97-13281ee695b7](https://github.com/Okerew/okerew/assets/93822247/4ccbde74-cbc9-474c-af14-398f8835119a)
 <br>
-<a href="https://github.com/Okerew/okrolearn"><h2>Okrolearn</h2></a>
+<a href="https://github.com/Okerew/okrolearn">Okrolearn</a>
