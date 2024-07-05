@@ -22,9 +22,10 @@ Discord - _wereko
 <a href="https://yt3.ggpht.com/LwiO5e5u-6oULiQO9SklMB4XyIcj1COZ05O0TqTm4j03d-sLBCUXGnB3JbjtUUhb3jaZY3_XnjE=s160-c-k-c0x00ffffff-no-rj">Youtube</a>
 
 # Best projects:
-<img src="https://github.com/Okerew/okerew/assets/93822247/4ccbde74-cbc9-474c-af14-398f8835119a" witdh = "200px" height = "200px">
+<img src="https://github.com/Okerew/okerew/assets/93822247/4ccbde74-cbc9-474c-af14-398f8835119a" witdh = "100px" height = "100px">
 <br>
 <a href="https://github.com/Okerew/okrolearn">Okrolearn</a>
 <br>
-<img src="https://github.com/Okerew/okerew/assets/93822247/e5b17f57-d030-4466-8760-0d504e427aa0" witdh = "200px" height = "200px">
+<img src="https://github.com/Okerew/okerew/assets/93822247/e5b17f57-d030-4466-8760-0d504e427aa0" witdh = "100px" height = "100px">
+<br>
 <a href="github.com/Okerew/okraleditor>Okral Code Editor</a>
