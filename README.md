@@ -28,4 +28,4 @@ Discord - _wereko
 <br>
 <img src="https://github.com/Okerew/okerew/assets/93822247/e5b17f57-d030-4466-8760-0d504e427aa0" witdh = "100px" height = "100px">
 <br>
-<a href="github.com/Okerew/okraleditor>Okral Code Editor</a>
+<a href="github.com/Okerew/okraleditor">Okral Code Editor</a>
