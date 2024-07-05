@@ -22,6 +22,8 @@ Discord - _wereko
 <a href="https://yt3.ggpht.com/LwiO5e5u-6oULiQO9SklMB4XyIcj1COZ05O0TqTm4j03d-sLBCUXGnB3JbjtUUhb3jaZY3_XnjE=s160-c-k-c0x00ffffff-no-rj">Youtube</a>
 
 # Best projects:
-![344431882-2c3e95ea-394d-4e29-8b97-13281ee695b7](https://github.com/Okerew/okerew/assets/93822247/4ccbde74-cbc9-474c-af14-398f8835119a)
+<img src="https://github.com/Okerew/okerew/assets/93822247/4ccbde74-cbc9-474c-af14-398f8835119a" witdh = "50px" height = "50px">
 <br>
 <a href="https://github.com/Okerew/okrolearn">Okrolearn</a>
+<br>
+
