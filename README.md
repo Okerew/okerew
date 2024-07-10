@@ -31,6 +31,6 @@ Discord - \_wereko
   <tr>
     <td><a href="https://github.com/Okerew/okrolearn">Okrolearn</a></td>
     <td><a href="https://github.com/Okerew/okraleditor">Okral Editor</a></td>
-    <td><a href="https://github.com/Okerew/okral-image-model"></a></td>
+    <td><a href="https://github.com/Okerew/okral-image-model">Image Model</a></td>
   </tr>
 </table>
