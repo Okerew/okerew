@@ -7,7 +7,7 @@ I am a full stack developer, also a student which mainly programs in Python and 
 
 Note: I analyze the code that it is outputting for any security issues and overall issues.
 
-- 🔭 I’m currently working on Okrolearn, Okral Code Editor
+- 🔭 I’m currently working on Okrolearn, Okral Code Editor, A native alternative to docker for macos
 - 🌱 I’m currently learning C, C++
 - 👯 I’m looking to collaborate on some machine learning projects
 - 🤔 I’m looking for help with extensions for Okral Code Editor. Help with Okrolearn would also be nice.
