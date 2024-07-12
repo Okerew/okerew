@@ -7,10 +7,10 @@ I am a full stack developer, also a student which mainly programs in Python and 
 
 Note: I analyze the code that it is outputting for any security issues and overall issues.
 
-- 🔭 I’m currently working on Okrolearn, Okral Code Editor, A native alternative to docker for macos
+- 🔭 I’m currently working on Okrolearn, Okral Code Editor, Osxiec
 - 🌱 I’m currently learning C, C++
 - 👯 I’m looking to collaborate on some machine learning projects
-- 🤔 I’m looking for help with extensions for Okral Code Editor. Help with Okrolearn would also be nice.
+- 🤔 I’m looking for help with extensions for Okral Code Editor. Help with Okrolearn and osxiec would also be nice.
 - 😄 Pronouns: az/best (this is a joke, I am male, please don't take it personally if you were offended).
 
 # Reach me:
@@ -27,10 +27,12 @@ Discord - \_wereko
     <td><img src="https://github.com/Okerew/okerew/assets/93822247/4ccbde74-cbc9-474c-af14-398f8835119a" width="100px" height="100px"></td>
     <td><img src="https://github.com/Okerew/okerew/assets/93822247/e5b17f57-d030-4466-8760-0d504e427aa0" width="100px" height="100px"></td>
     <td><img src="https://github.com/Okerew/okerew/assets/93822247/3421c21a-2b2d-4e96-8663-f87e1ae28f32" width="100px" height="100px"></td>
+    <td><img src="https://github.com/user-attachments/assets/d45e77d8-9532-482f-b4f6-874a301f4916" witdh="100px" height="100px"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Okerew/okrolearn">Okrolearn</a></td>
     <td><a href="https://github.com/Okerew/okraleditor">Okral Editor</a></td>
     <td><a href="https://github.com/Okerew/okral-image-model">Image Model</a></td>
+    <td><a href="https://github.com/Okerew/osxiec">Osxiec</a></td>
   </tr>
 </table>
