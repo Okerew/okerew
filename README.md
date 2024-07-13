@@ -7,7 +7,7 @@ I am a full stack developer, also a student which mainly programs in Python and 
 
 Note: I analyze the code that it is outputting for any security issues and overall issues.
 
-- 🔭 I’m currently working on Okrolearn, Okral Code Editor, Osxiec
+- 🔭 I’m currently working on a file network for osxiec.
 - 🌱 I’m currently learning C, C++
 - 👯 I’m looking to collaborate on some machine learning projects
 - 🤔 I’m looking for help with extensions for Okral Code Editor. Help with Okrolearn and osxiec would also be nice.
