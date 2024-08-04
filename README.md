@@ -2,10 +2,6 @@
 
 **Okerew/okerew**
 
-Longer description:  
-I am a full stack developer, also a student which mainly programs in Python and JavaScript, sometimes in Rust and Java. I also sometimes use ChatGPT for docstrings and repetitive parts.
-
-
 - 🔭 I’m currently working on leetcode, algorithms etc.
 - 🌱 I’m currently learning algorithms
 - 👯 I’m looking to collaborate on some machine learning projects
