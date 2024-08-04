@@ -5,13 +5,12 @@
 Longer description:  
 I am a full stack developer, also a student which mainly programs in Python and JavaScript, sometimes in Rust and Java. I also sometimes use ChatGPT for docstrings and repetitive parts.
 
-Note: I analyze the code that it is outputting for any security issues and overall issues.
 
-- 🔭 I’m currently working on learning java,  leetcode, algorithms etc.
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on leetcode, algorithms etc.
+- 🌱 I’m currently learning algorithms
 - 👯 I’m looking to collaborate on some machine learning projects
 - 🤔 I’m looking for help with extensions for Okral Code Editor. Help with Okrolearn and osxiec would also be nice.
-- 😄 Pronouns: az/best (this is a joke, I am male, please don't take it personally if you were offended).
+- 😄 Pronouns: male
 
 # Reach me:
 [Twitter](https://x.com/OkerewWar)  
