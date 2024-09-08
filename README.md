@@ -2,7 +2,7 @@
 
 **Okerew/okerew**
 
-- 🔭 I’m currently working on leetcode, algorithms etc.
+- 🔭 I’m currently working on biobridge ( I may name it something different) a library which is supposed to bridge the gap between bioscience and dna engineering closer with computer science.
 - 🌱 I’m currently learning algorithms
 - 👯 I’m looking to collaborate on some machine learning projects
 - 🤔 I’m looking for help with extensions for Okral Code Editor. Help with Okrolearn and osxiec would also be nice.
