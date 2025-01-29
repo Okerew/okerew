@@ -21,13 +21,13 @@ Discord - \_wereko
   <tr>
     <td><img src="https://github.com/Okerew/okerew/assets/93822247/4ccbde74-cbc9-474c-af14-398f8835119a" width="100px" height="100px"></td>
     <td><img src="https://github.com/Okerew/okerew/assets/93822247/e5b17f57-d030-4466-8760-0d504e427aa0" width="100px" height="100px"></td>
-    <td><img src="https://github.com/Okerew/okerew/assets/93822247/3421c21a-2b2d-4e96-8663-f87e1ae28f32" width="100px" height="100px"></td>
+    <td><img src="https://github.com/Okerew/Neural-Web/raw/main/neuron_connections_3d.png" width="100px" height="100px"></td>
     <td><img src="https://github.com/user-attachments/assets/d45e77d8-9532-482f-b4f6-874a301f4916" witdh="100px" height="100px"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Okerew/okrolearn">Okrolearn</a></td>
     <td><a href="https://github.com/Okerew/okraleditor">Okral Editor</a></td>
-    <td><a href="https://github.com/Okerew/okral-image-model">Image Model</a></td>
+    <td><a href="https://github.com/Okerew/Neural-Web">Neural Web</a></td>
     <td><a href="https://github.com/Okerew/osxiec">Osxiec</a></td>
   </tr>
 </table>
