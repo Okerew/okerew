@@ -2,10 +2,10 @@
 
 **Okerew/okerew**
 
-- 🔭 I’m currently working on biobridge ( I may name it something different) a library which is supposed to bridge the gap between bioscience and dna engineering closer with computer science.
+- 🔭 I’m currently grinding on leetcode, learning, I am open for requests if anyone wants to do something with me though
 - 🌱 I’m currently learning algorithms
-- 👯 I’m looking to collaborate on some machine learning projects
-- 🤔 I’m looking for help with extensions for Okral Code Editor. Help with Okrolearn and osxiec would also be nice.
+- 👯 I’m looking to collaborate on anything really
+- 🤔 I’m looking for help with perhaps improving the neural web architecture
 - 😄 Pronouns: male
 
 # Reach me:
