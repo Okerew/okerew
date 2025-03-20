@@ -15,6 +15,8 @@ Discord - \_wereko
 [YouTube](https://yt3.ggpht.com/LwiO5e5u-6oULiQO9SklMB4XyIcj1COZ05O0TqTm4j03d-sLBCUXGnB3JbjtUUhb3jaZY3_XnjE=s160-c-k-c0x00ffffff-no-rj)
 <br>
 [Dev.to](https://dev.to/okerew)
+<br>
+[CoderLegion](https://coderlegion.com/user/okerew)
 
 # Best projects:
 <table>
