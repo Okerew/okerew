@@ -18,6 +18,8 @@ Mail - okerewgroup@proton.me
 [Dev.to](https://dev.to/okerew)
 <br>
 [CoderLegion](https://coderlegion.com/user/okerew)
+<br>
+[SubStack](https://substack.com/@okerew)
 
 # Best projects:
 <table>
