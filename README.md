@@ -9,8 +9,6 @@
 - 😄 Pronouns: male
 
 # Reach me:
-[Website](https://okral.glitch.me)
-<br>
 [Twitter](https://x.com/OkerewWar)  
 Mail - okerewgroup@proton.me  
 [Discord friend link](https://discord.com/users/1130105085918191706)
