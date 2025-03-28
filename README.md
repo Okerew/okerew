@@ -2,7 +2,7 @@
 
 **Okerew/okerew**
 
-- 🔭 Fixing up gpumkat a debugger which can do things that xcode instruments for metal cannot.
+- 🔭 Fixing up gpumkat a debugger which can do things that xcode instruments for metal can not.
 - 🌱 I’m currently learning algorithms
 - 👯 I’m looking to collaborate on anything really
 - 🤔 I’m looking for help with perhaps improving the neural web architecture
