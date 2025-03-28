@@ -2,7 +2,7 @@
 
 **Okerew/okerew**
 
-- 🔭 I’m currently grinding on leetcode, learning, I am open for requests if anyone wants to do something with me though
+- 🔭 Fixing up gpumkat a debugger which can do things that xcode instruments for metal cannot.
 - 🌱 I’m currently learning algorithms
 - 👯 I’m looking to collaborate on anything really
 - 🤔 I’m looking for help with perhaps improving the neural web architecture
