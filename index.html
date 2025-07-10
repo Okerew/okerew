@@ -24,7 +24,67 @@
 
     <link rel="stylesheet" href="/style.css" />
 
-    <script src="/script.js" defer></script>
+    <script>
+      function toggleVisibility(id) {
+        var x = document.getElementById(id);
+        if (x.classList.contains("visible")) {
+          x.classList.remove("visible");
+        } else {
+          x.classList.add("visible");
+        }
+      }
+      function autoclicker() {
+        toggleVisibility("autoclicker");
+      }
+
+      function spammer() {
+        toggleVisibility("spammer");
+      }
+
+      function pyos() {
+        toggleVisibility("pyos");
+      }
+
+      function dptech() {
+        toggleVisibility("dptech");
+      }
+
+      function ltsm() {
+        toggleVisibility("ltsm");
+      }
+
+      function ok_l() {
+        toggleVisibility("ok_l");
+      }
+
+      function oce() {
+        toggleVisibility("oce");
+      }
+      function okrol() {
+        toggleVisibility("okrol");
+      }
+      function okterminal() {
+        toggleVisibility("okterminal");
+      }
+
+      function ok_blockchain() {
+        toggleVisibility("okblockchain");
+      }
+      function oklearn() {
+        toggleVisibility("oklearn");
+      }
+      function osxiec() {
+        toggleVisibility("osxiec");
+      }
+
+      function biobridge() {
+        toggleVisibility("biobridge");
+      }
+
+      function depramanager() {
+        toggleVisibility("depramanager");
+      }
+    </script>
   </head>
   <body id="body">
     <div id="content">
@@ -83,30 +143,22 @@
         </li>
         <li>
           <button onclick="oklearn()">
-             <h2>
-          Okrolearn
-          </h2>
+            <h2>Okrolearn</h2>
           </button>
         </li>
         <li>
           <button onclick="osxiec()">
-            <h2>
-              Osxiec
-            </h2>
+            <h2>Osxiec</h2>
           </button>
         </li>
         <li>
           <button onclick="biobridge()">
-            <h2>
-              Biobridge
-            </h2>
+            <h2>Biobridge</h2>
           </button>
         </li>
         <li>
-        <button onclick="depramanager()">
-          <h2>
-            Depramanager
-          </h2>
+          <button onclick="depramanager()">
+            <h2>Depramanager</h2>
           </button>
         </li>
         <li>
@@ -114,7 +166,9 @@
             >Texturepacks</a
           >
         </li>
-        <li><a href="https://github.com/Okerew/Neural-Web">Neural&nbsp;Web</a></li>
+        <li>
+          <a href="https://github.com/Okerew/Neural-Web">Neural&nbsp;Web</a>
+        </li>
         <li><a href="https://github.com/Okerew">Github</a></li>
       </ul>
 
@@ -230,9 +284,7 @@
           >Download for MacOS, Linux, Windows or Android</a
         >
         <br />
-        <a href="https://github.com/Okerew/okraleditor"
-          >Build</a
-        >
+        <a href="https://github.com/Okerew/okraleditor">Build</a>
       </div>
       <div id="okrol" class="animated-element">
         <h1>Okrol</h1>
@@ -261,67 +313,103 @@
         <a href="https://github.com/Okerew/Okralterminal.git">Download</a>
       </div>
       <div id="okblockchain" class="animated-element">
-        <h1>
-          Okral Blockchain Creator
-        </h1>
-        <br>
-        <a href="https://github.com/Okerew/okral-blockchain-creator/tree/main">Download</a>
+        <h1>Okral Blockchain Creator</h1>
+        <br />
+        <a href="https://github.com/Okerew/okral-blockchain-creator/tree/main"
+          >Download</a
+        >
       </div>
       <div id="oklearn" class="animated-element">
-        <h1>
-          Oklearn
-        </h1>
-        <a href="https://fazier.com/launches/okrolearn" target="_blank" rel="noopener noreferrer"><img src="https://fazier.com/api/v1/public/badges/embed_image.svg?launch_id=681&badge_type=daily" width="270" alt="Example Image" class="d-inline-block mt-3 p-3 rounded img-fluid" /></a>
-        <p>
-          A machine learning library created by me
-        </p>
-        <img src="https://github.com/Okerew/okrolearn/assets/93822247/2c3e95ea-394d-4e29-8b97-13281ee695b7">
-        <br>
+        <h1>Oklearn</h1>
+        <a
+          href="https://fazier.com/launches/okrolearn"
+          target="_blank"
+          rel="noopener noreferrer"
+          ><img
+            src="https://fazier.com/api/v1/public/badges/embed_image.svg?launch_id=681&badge_type=daily"
+            width="270"
+            alt="Example Image"
+            class="d-inline-block mt-3 p-3 rounded img-fluid"
+        /></a>
+        <p>A machine learning library created by me</p>
+        <img
+          src="https://github.com/Okerew/okrolearn/assets/93822247/2c3e95ea-394d-4e29-8b97-13281ee695b7"
+        />
+        <br />
         <a href="https://github.com/Okerew/okrolearn/tree/main">Github</a>
-        <br>
+        <br />
       </div>
       <div class="animated-element" id="osxiec">
-        <h1>
-          Osxiec
-        </h1>
-        
-        <img src="https://github.com/user-attachments/assets/d45e77d8-9532-482f-b4f6-874a301f4916" witdh="500px" height="500px">
-        <br>
-      
-        <p>
-          OSXIEC is a native Docker-like solution for macOS developed by Okerew. It leverages native macOS features to provide containerization capabilities, albeit with some limitations compared to Docker.
-        </p>
-        <br>
-         <a href="https://fazier.com/launches/osxiec" target="_blank" rel="noopener noreferrer"><img src="https://fazier.com/api/v1/public/badges/embed_image.svg?launch_id=680&badge_type=daily" width="270" alt="Example Image" class="d-inline-block mt-3 p-3 rounded img-fluid" /></a>
-       <br>
-        <a href="https://github.com/Okerew/osxiec"> Github</a>
+        <h1>Osxiec</h1>
 
+        <img
+          src="https://github.com/user-attachments/assets/d45e77d8-9532-482f-b4f6-874a301f4916"
+          witdh="500px"
+          height="500px"
+        />
+        <br />
+
+        <p>
+          OSXIEC is a native Docker-like solution for macOS developed by Okerew.
+          It leverages native macOS features to provide containerization
+          capabilities, albeit with some limitations compared to Docker.
+        </p>
+        <br />
+        <a
+          href="https://fazier.com/launches/osxiec"
+          target="_blank"
+          rel="noopener noreferrer"
+          ><img
+            src="https://fazier.com/api/v1/public/badges/embed_image.svg?launch_id=680&badge_type=daily"
+            width="270"
+            alt="Example Image"
+            class="d-inline-block mt-3 p-3 rounded img-fluid"
+        /></a>
+        <br />
+        <a href="https://github.com/Okerew/osxiec"> Github</a>
       </div>
       <div class="animated-element" id="biobridge">
-        <h1>
-          Biobridge
-        </h1>
-        <img src="https://cdn.glitch.global/a876511c-32af-4497-ae48-bc7d305558bb/b54e8cf8-ba46-48b4-9f45-cc718b257f0e.image.png?v=1739306048194" width="500px" height="500px">
+        <h1>Biobridge</h1>
+        <img
+          src="https://cdn.glitch.global/a876511c-32af-4497-ae48-bc7d305558bb/b54e8cf8-ba46-48b4-9f45-cc718b257f0e.image.png?v=1739306048194"
+          width="500px"
+          height="500px"
+        />
         <p>
-          Biobridge is a Python library for simulating biological processes and systems also analyzing them, visualising them, and interacting with them.
+          Biobridge is a Python library for simulating biological processes and
+          systems also analyzing them, visualising them, and interacting with
+          them.
         </p>
-        <p>
-          To install do pip install biobridge
-        </p>
+        <p>To install do pip install biobridge</p>
         <a href="https://github.com/Okerew/biobridge">Github</a>
       </div>
       <div class="animated-element" id="depramanager">
-       <h1>
-         Depramanager
-        </h1>
-        <img src="https://cdn.glitch.global/a876511c-32af-4497-ae48-bc7d305558bb/icon.png?v=1739468743961" width="500px" height="500px">
+        <h1>Depramanager</h1>
+        <img
+          src="https://cdn.glitch.global/a876511c-32af-4497-ae48-bc7d305558bb/icon.png?v=1739468743961"
+          width="500px"
+          height="500px"
+        />
         <p>
-          The Depramanager is a Visual Studio Code (VSCode) extension designed to help developers manage dependencies for various programming languages. It provides functionalities to analyze, sync, update, and install dependencies, ensuring that your project's dependencies are up-to-date and correctly declared. 
+          The Depramanager is a Visual Studio Code (VSCode) extension designed
+          to help developers manage dependencies for various programming
+          languages. It provides functionalities to analyze, sync, update, and
+          install dependencies, ensuring that your project's dependencies are
+          up-to-date and correctly declared.
         </p>
-        <a href="https://marketplace.visualstudio.com/items?itemName=Okerew.depramanger&ssr=false#overview">Marketplace</a>
+        <a
+          href="https://marketplace.visualstudio.com/items?itemName=Okerew.depramanger&ssr=false#overview"
+          >Marketplace</a
+        >
       </div>
       <p>These programms are for educational purposes only</p>
-      <p>Some of them fall under <a href="https://github.com/Okerew/okral-license/blob/main/LICENSE">okral license</a> and some under mit license</p>
+      <p>
+        Some of them fall under
+        <a href="https://github.com/Okerew/okral-license/blob/main/LICENSE"
+          >okral license</a
+        >
+        and some under mit license
+      </p>
       <p>
         Contact me, <a href="mailto:okerewgroup@proton.me">email</a>,
         <a href="https://discord.com/users/1130105085918191706">discord</a>
