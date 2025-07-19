@@ -8,19 +8,6 @@
 - 🤔 I’m looking for help with perhaps improving the neural web architecture
 - 😄 Pronouns: male
 
-# Reach me:
-[Twitter](https://x.com/OkerewWar)  
-Mail - okerewgroup@proton.me  
-[Discord friend link](https://discord.com/users/1130105085918191706)
-<br>
-[YouTube](https://yt3.ggpht.com/LwiO5e5u-6oULiQO9SklMB4XyIcj1COZ05O0TqTm4j03d-sLBCUXGnB3JbjtUUhb3jaZY3_XnjE=s160-c-k-c0x00ffffff-no-rj)
-<br>
-[Dev.to](https://dev.to/okerew)
-<br>
-[CoderLegion](https://coderlegion.com/user/okerew)
-<br>
-[SubStack](https://substack.com/@okerew)
-
 # Best projects:
 <table>
   <tr>
