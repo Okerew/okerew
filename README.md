@@ -16,6 +16,7 @@
     <td><img src="https://github.com/user-attachments/assets/d45e77d8-9532-482f-b4f6-874a301f4916" witdh="100px" height="100px"></td>
     <td><img src="https://github.com/Okerew/biobridge/raw/main/biobridge.png" witdh="100px" height="100px"></td>
     <td><img src="https://github.com/Okerew/depramanager/raw/main/icon.png" witdth="100px" height="100px"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/205430952?s=200&v=4" width="100px" height="100px"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Okerew/okrolearn">Okrolearn</a></td>
@@ -23,5 +24,6 @@
     <td><a href="https://github.com/Okerew/osxiec">Osxiec</a></td>
     <td><a href="https://github.com/Okerew/biobridge">Biobridge</a></td>
     <td><a href="https://github.com/Okerew/depramanager">Depramanager</a></td>
+    <td><a href="https://github.com/MetalLikeCuda">MetalLikeCuda</a></td>
   </tr>
 </table>
