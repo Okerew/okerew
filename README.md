@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning algorithms
 - 👯 I’m looking to collaborate on anything really
 - 🤔 I’m looking for help with perhaps improving the neural web architecture
-- 😄 Pronouns: male
+- 😄 Pronouns: he/him
 
 # Best projects:
 <table>
