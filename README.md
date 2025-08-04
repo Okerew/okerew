@@ -2,9 +2,9 @@
 
 **Okerew/okerew**
 
-- 🔭 Fixing up gpumkat a debugger which can do things that xcode instruments for metal can not.
-- 🌱 I’m currently learning algorithms
-- 👯 I’m looking to collaborate on anything really
+- 🔭 Working on Osxiec version 1.0.
+- 🌱 I’m currently learning nothing really.
+- 👯 I’m collabrating at the moment with my friend rextix.
 - 🤔 I’m looking for help with perhaps improving the neural web architecture
 - 😄 Pronouns: he/him
 
