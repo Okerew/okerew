@@ -2,7 +2,7 @@
 
 **Okerew/okerew**
 
-- 🔭 Working on Osxiec version 1.0.
+- 🔭 Nothing really.
 - 🌱 I’m currently learning nothing really.
 - 👯 I’m collabrating at the moment with my friend rextix.
 - 🤔 I’m looking for help with perhaps improving the neural web architecture
