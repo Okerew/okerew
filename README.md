@@ -4,7 +4,7 @@
 
 - 🔭 Nothing really.
 - 🌱 I’m currently learning nothing really.
-- 👯 Open to collabrations.
+- 👯 Open to collabrations, though working on something with my friend rextix.
 - 🤔 I’m looking for help with perhaps improving the neural web architecture
 - 😄 Pronouns: he/him
 
