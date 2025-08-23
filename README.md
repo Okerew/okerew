@@ -2,9 +2,9 @@
 
 **Okerew/okerew**
 
-- 🔭 Nothing really.
+- 🔭 Working on biobridge.
 - 🌱 I’m currently learning nothing really.
-- 👯 Open to collabrations, though working on something with my friend rextix.
+- 👯 Open to collabrations.
 - 🤔 I’m looking for help with perhaps improving the neural web architecture
 - 😄 Pronouns: he/him
 
