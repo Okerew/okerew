@@ -2,8 +2,8 @@
 
 **Okerew/okerew**
 
-- 🔭 Working on biobridge.
-- 🌱 I’m currently learning nothing really.
+- 🔭 Working on something personal.
+- 🌱 I’m currently learning something.
 - 👯 Open to collabrations.
 - 🤔 I’m looking for help with perhaps improving the neural web architecture
 - 😄 Pronouns: he/him
