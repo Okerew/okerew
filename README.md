@@ -2,10 +2,10 @@
 
 **Okerew/okerew**
 
-- Working on something personal.
+- Working on the neural web to make it more viable.
 - I’m currently learning something.
 - Open to collabrations.
-- I’m looking for help with perhaps improving the neural web architecture
+- I’m looking for help with perhaps improving the neural web architecture.
 - Pronouns: he/him
 
 # Best projects:
