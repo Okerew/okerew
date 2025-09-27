@@ -2,7 +2,7 @@
 
 **Okerew/okerew**
 
-- Working on the neural web to make it more viable.
+- Working on nothing really right now.
 - I’m currently learning something.
 - Open to collabrations.
 - I’m looking for help with perhaps improving the neural web architecture.
