@@ -20,7 +20,7 @@
   <tr>
     <td><a href="https://github.com/Okerew/Neural-Web">Neural Web</a></td>
     <td><a href="https://github.com/Okerew/osxiec">Osxiec</a></td>
-    <td><a href="https://github.com/Okerew/biobridge">Biobridge</a></td>
+    <td><a href="https://github.com/Okerew/biobridge">biobridge</a></td>
     <td><a href="https://github.com/MetalLikeCuda">MetalLikeCuda</a></td>
     <td><a href="https://github.com/Okerew/od.nvim">od.nvim</a></td>
   </tr>
