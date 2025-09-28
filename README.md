@@ -13,7 +13,7 @@
   <tr>
     <td><img src="https://github.com/Okerew/Neural-Web/raw/main/neuron_connections_3d.png" width="100px" height="100px"></td>
     <td><img src="https://github.com/user-attachments/assets/d45e77d8-9532-482f-b4f6-874a301f4916" witdh="100px" height="100px"></td>
-    <td><img src="https://github.com/Okerew/biobridge/raw/main/biobridge.png" witdh="100px" height="100px"></td>
+    <td><img src="https://raw.githubusercontent.com/Okerew/biobridge/refs/heads/main/biobridge.png" witdh="100px" height="100px"></td>
     <td><img src="https://avatars.githubusercontent.com/u/205430952?s=200&v=4" width="100px" height="100px"></td>
     <td><img src="https://github.com/Okerew/od.nvim/blob/main/od.png?raw=true" width="100px" height="100px"></td>
   </tr>
