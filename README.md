@@ -18,7 +18,7 @@
     <td><img src="https://github.com/Okerew/od.nvim/blob/main/od.png?raw=true" width="100px" height="100px"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Okerew/Neural-Web">Larkos(Neural Web)</a></td>
+    <td><a href="https://github.com/Okerew/larkos">Larkos(Neural Web)</a></td>
     <td><a href="https://github.com/Okerew/osxiec">Osxiec</a></td>
     <td><a href="https://github.com/Okerew/biobridge">biobridge</a></td>
     <td><a href="https://github.com/MetalLikeCuda">MetalLikeCuda</a></td>
