@@ -2,9 +2,9 @@
 
 **Okerew/okerew**
 
-- Working on something really important.
+- Working on nothing really right now.
 - I’m currently learning something.
-- A bit open to collabrations.
+- Open to collabrations.
 - I’m looking for help with perhaps improving the neural web architecture.
 - Pronouns: he/him
 
