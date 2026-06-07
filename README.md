@@ -2,10 +2,10 @@
 
 **Okerew/okerew**
 
-- Working on improving tests in larkos 0.1
+- Working on actually training the larkos 0.1 model.
 - I’m currently learning something.
 - Not open to collabrations.
-- I’m looking for help with perhaps improving the neural web architecture.
+- I’m looking for help with the metal like cuda project perhaps.
 - Pronouns: he/him
 
 # Best projects:
