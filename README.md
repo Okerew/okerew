@@ -2,7 +2,7 @@
 
 **Okerew/okerew**
 
-- Working on actually training the larkos 0.1 model.
+- Taking a break.
 - I’m currently learning something.
 - Not open to collabrations.
 - I’m looking for help with the metal like cuda project perhaps.
