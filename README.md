@@ -4,7 +4,7 @@
 
 - Taking a break.
 - I’m currently learning something.
-- Not open to collabrations.
+- Open to collabrations.
 - I’m looking for help with the metal like cuda project perhaps.
 - Pronouns: he/him
 
