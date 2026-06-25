@@ -3,7 +3,7 @@
 **Okerew/okerew**
 
 - Taking a break.
-- I’m currently learning something.
+- I’m currently loving being unemployed.
 - Open to collabrations.
 - I’m looking for help with the metal like cuda project perhaps.
 - Pronouns: he/him
